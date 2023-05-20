@@ -1,6 +1,6 @@
 <p>
- <a> <img src="https://img.icons8.com/color/48/000000/php.png"/></a>&nbsp&nbsp 
- <a> <img src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" heigh="43", width="43"/></a>&nbsp&nbsp
+ <a> <img src="https://img.icons8.com/color/48/000000/php.png" heigh="48", width="48"/></a>&nbsp&nbsp 
+ <a> <img src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" heigh="40", width="40"/></a>&nbsp&nbsp
  <a> <img src="https://img.icons8.com/color/48/000000/mysql.png"/></a>&nbsp&nbsp 
  <a> <img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>&nbsp&nbsp
  <a> <img src="https://img.icons8.com/color/48/000000/css3.png"/></a>&nbsp&nbsp
