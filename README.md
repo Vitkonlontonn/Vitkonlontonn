@@ -1,4 +1,13 @@
-### Hi there 👋
+<p>
+ <a> <img src="https://img.icons8.com/color/48/000000/php.png"/></a>&nbsp&nbsp 
+ <a> <img src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" heigh="43", width="43"/></a>&nbsp&nbsp
+ <a> <img src="https://img.icons8.com/color/48/000000/mysql.png"/></a>&nbsp&nbsp 
+ <a> <img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>&nbsp&nbsp
+ <a> <img src="https://img.icons8.com/color/48/000000/css3.png"/></a>&nbsp&nbsp
+ <a> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>&nbsp&nbsp  
+</p>
+  
+  
 
 <!--
 **Vitkonlontonn/Vitkonlontonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
